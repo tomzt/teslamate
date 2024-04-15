@@ -637,19 +637,19 @@ msgstr "แรงดันลมยาง"
 #: lib/teslamate_web/live/car_live/summary.html.heex:145
 #, elixir-autogen, elixir-format
 msgid "Low tire pressure, check (%{tire_low}) tire"
-msgstr ""
+msgstr "แรงดันลมยางต่ำ ตรวจสอบยาง (%{tire_low})"
 
 #: lib/teslamate_web/live/car_live/summary.html.heex:65
 #, elixir-autogen, elixir-format
 msgid "Dog Mode"
-msgstr ""
+msgstr "โหมดสุนัข"
 
 #: lib/teslamate_web/live/car_live/summary.ex:139
 #, elixir-autogen, elixir-format
 msgid "Dog mode is enabled"
-msgstr ""
+msgstr "เปิดใช้งานโหมดสุนัขแล้ว"
 
 #: lib/teslamate_web/live/car_live/summary.html.heex:232
 #, elixir-autogen, elixir-format
 msgid "Expected Finish Time"
-msgstr ""
+msgstr "เวลาที่คาดว่าจะเสร็จสิ้น"
